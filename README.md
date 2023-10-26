@@ -25,7 +25,7 @@
 <hr>
 <h3>Contact me:</h3>
 <ul>
-    <li>marcelo.montenegro1997@gmai.com</li>
+    <li>marcelo.montenegro1997@gmail.com</li>
     <li>+51 917205538</li>        
 <ul/>
 
