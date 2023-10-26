@@ -1,6 +1,6 @@
 <div>
     <h1 align="center">Hi 👋, I'm Marcelo</h1>
-    <h3 align="center" class="home__description">Hello! I am a passionate Full Stack web developer dedicated to creating innovative and scalable solutions that enhance user experience. My primary interest lies in new technologies and artificial intelligence, and I always keep myself up-to-date with the latest trends and advancements in the tech world. I enjoy exploring and experimenting with new tools and platforms, and am constantly seeking new ways to enhance my technical skillset. </h3>
+    <h3 align="center" >Hello! I am a passionate Full Stack web developer dedicated to creating innovative and scalable solutions that enhance user experience. My primary interest lies in new technologies and artificial intelligence, and I always keep myself up-to-date with the latest trends and advancements in the tech world. I enjoy exploring and experimenting with new tools and platforms, and am constantly seeking new ways to enhance my technical skillset. </h3>
 </div>
 
 <hr>
