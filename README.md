@@ -1,32 +1,21 @@
-<div>
-    <h1 align="center">Hi 👋, I'm Marcelo</h1>
-    <h3 align="center" >Hello! I am a passionate Full Stack web developer dedicated to creating innovative and scalable solutions that enhance user experience. My primary interest lies in new technologies and artificial intelligence, and I always keep myself up-to-date with the latest trends and advancements in the tech world. I enjoy exploring and experimenting with new tools and platforms, and am constantly seeking new ways to enhance my technical skillset. </h3>
-</div>
+# Saksham Taneja
+[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/sakshamtaneja/)
+[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+---
 
-<hr>
+## Hi there 👋,           
+I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA.  I am a tech and management enthusiast. Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later career.  
 
-### 👨‍💻 About Me :
+## 🧐 About
+- 🏄‍ Community guy who loves being involved in communities and help students grow
+- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organizer
+- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
+- 🌱 I love to speak at public events and have been a speaker at many events. I organize Workshops, Webinars etc to help student Community
+- 👯 And Many More...
 
- - I am currently training to be a FullStack developer
- - I really like artificial intelligence and linuux
- - I like to create projects using HTML CSS PYTHON
- 
-<hr>
-
-<div align="left">
-    <h3>🧰 Languages and Tools : </h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="logodehtml5" width="36" height="36px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="36" height=36>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linuxgood" width="36" height="36">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="snake" width="36" height=36>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="36" height=36>
-    <!--<img src="" alt="" width="36" height=36>-->
-</div>
-<hr>
-<h3>Contact me:</h3>
-<ul>
-    <li>marcelo.montenegro1997@gmail.com</li>
-    <li>+51 917205538</li>        
-<ul/>
-
-
+# Hello World!! 🤔
+- 💬 Ask me about anything and everything! 
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
+- ⚡ Fun fact: I love meeting new people and eating food! 
+- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+---
