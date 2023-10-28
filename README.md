@@ -1,18 +1,19 @@
-# Marcelo Montenegro
+# Marcelo Montenegro 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/m1997/) 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ---
 
 ## ¡Hola a todos! 👋
 
-Soy Marcelo Montenegro, estudiante de la Universidad X, donde estoy cursando la carrera de BCA. Soy un entusiasta de la tecnología y la gestión. Me encantaría ser un evangelizador de la nube y me veo a mí mismo como un futuro Gerente de Producto/Programa.
+Soy Marcelo Montenegro, estudiante de la Universidad Tecnologica del Perú, donde estoy cursando la carrera de Ingenieria de sistemas. Soy un entusiasta de la tecnología y la programacion. Siempre me propongo nuevos retos y proyectos, estoy aprendiendo nuevas tecnologias cada dia y en un futuro muy cercano me gustaria convertirme en un desarrollador FullStack.
 
-## 🧐 Acerca de mí
-- 🏄‍ Soy una persona comprometida con las comunidades y me encanta ayudar a los estudiantes a crecer.
-- 😄 Suelo participar en hackatones como mentor, participante y organizador.
-- 🔭 Actualmente, soy Embajador de Microsoft Learn, [Mozilliano](https://mozillians.org/en-US/u/tu_nombre_de_Mozilliano/), Embajador de IBM Z, Ex-Líder de Google DSC y he formado parte de muchas comunidades y programas importantes.
-- 🌱 Me encanta hablar en eventos públicos y he sido ponente en numerosas ocasiones. Organizo talleres, seminarios web, etc., para ayudar a la comunidad estudiantil.
+##   Acerca de mí
+- 🏄‍ Soy una persona comprometida con las comunidades y me encanta ayudar a las personas a crecer.
+- 😄 Suelo participar en eventos de programacion y creaciones de proyectos en grupo.
+- 🌱 Me encanta compartir mis conocimientos y aprender algo nuevo cada día.
 - 👯 ¡Y mucho más!
+
+##   Tecnologias
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white 
 
 # ¡Hola mundo! 🤔
 - 💬 ¡Pregúntame sobre cualquier cosa!
