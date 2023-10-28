@@ -21,7 +21,7 @@ Soy Marcelo Montenegro, estudiante de la Universidad Tecnologica del Perú, dond
 ##   Contactame
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m1997/)
 
-# ¡Hola mundo! 🤔
+# ¡Hola mundo! 
 - 📫 Cómo contactarme: mándame un mensaje por [WhatsApp](https://wa.me/+51917205538).
 - ⚡ Dato curioso: ¡Me encanta conocer gente nueva y aprender sobre nuevas culturas!
 - 💬 Contáctame acerca de la nube, RPA, CommunityOps, DevRel, oportunidades para hablar, marketing, CampusOps y lo que desees.
