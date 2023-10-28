@@ -1,5 +1,6 @@
 # Marcelo Montenegro
 [![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/m1997/) 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ---
 
 ## ¡Hola a todos! 👋
