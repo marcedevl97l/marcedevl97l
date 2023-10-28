@@ -1,5 +1,5 @@
 # Marcelo Montenegro
-[![Linkedin Badge](https://img.shields.io/badge/-tu_nombre_de_Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_perfil_de_Linkedin/)](https://www.linkedin.com/in/tu_perfil_de_Linkedin/) [![Medium Badge](https://img.shields.io/badge/-@tu_nombre_de_Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@tu_nombre_de_Medium/)](https://medium.com/tu_nombre_de_Medium/)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelo-Sebastian-Reyes-Montenegro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_perfil_de_Linkedin/)]([https://www.linkedin.com/in/tu_perfil_de_Linkedin/](https://www.linkedin.com/in/m1997/)) [![Medium Badge](https://img.shields.io/badge/-@tu_nombre_de_Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@tu_nombre_de_Medium/)](https://medium.com/tu_nombre_de_Medium/)
 [![Gmail Badge](https://img.shields.io/badge/-tu_correo_electrónico-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tu_correo_electrónico)](mailto:tu_correo_electrónico)
 
 ---
