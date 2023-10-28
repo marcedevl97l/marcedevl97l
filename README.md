@@ -1,21 +1,22 @@
-# Saksham Taneja
-[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) [![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/sakshamtaneja/)
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
+# Marcelo Montenegro
+[![Linkedin Badge](https://img.shields.io/badge/-m1997-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_nombre_de_Linkedin/)](https://www.linkedin.com/in/tu_nombre_de_Linkedin/) [![Medium Badge](https://img.shields.io/badge/-@tu_nombre_de_Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@tu_nombre_de_Medium/)](https://medium.com/tu_nombre_de_Medium/)
+[![Gmail Badge](https://img.shields.io/badge/-tu_correo_electrónico-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tu_correo_electrónico)](mailto:tu_correo_electrónico)
+
 ---
 
-## Hi there 👋,           
-I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA.  I am a tech and management enthusiast. Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later career.  
+## ¡Hola a todos! 👋
 
-## 🧐 About
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organizer
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organize Workshops, Webinars etc to help student Community
-- 👯 And Many More...
+Soy Marcelo Montenegro, estudiante de la Universidad X, donde estoy cursando la carrera de BCA. Soy un entusiasta de la tecnología y la gestión. Me encantaría ser un evangelizador de la nube y me veo a mí mismo como un futuro Gerente de Producto/Programa.
 
-# Hello World!! 🤔
-- 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
-- ⚡ Fun fact: I love meeting new people and eating food! 
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
----
+## 🧐 Acerca de mí
+- 🏄‍ Soy una persona comprometida con las comunidades y me encanta ayudar a los estudiantes a crecer.
+- 😄 Suelo participar en hackatones como mentor, participante y organizador.
+- 🔭 Actualmente, soy Embajador de Microsoft Learn, [Mozilliano](https://mozillians.org/en-US/u/tu_nombre_de_Mozilliano/), Embajador de IBM Z, Ex-Líder de Google DSC y he formado parte de muchas comunidades y programas importantes.
+- 🌱 Me encanta hablar en eventos públicos y he sido ponente en numerosas ocasiones. Organizo talleres, seminarios web, etc., para ayudar a la comunidad estudiantil.
+- 👯 ¡Y mucho más!
+
+# ¡Hola mundo! 🤔
+- 💬 ¡Pregúntame sobre cualquier cosa!
+- 📫 Cómo contactarme: mándame un mensaje por [WhatsApp](https://wa.me/tu_número_de_WhatsApp).
+- ⚡ Dato curioso: ¡Me encanta conocer gente nueva y comer comida deliciosa!
+- 💬 Contáctame acerca de la nube, RPA, CommunityOps, DevRel, oportunidades para hablar, marketing, CampusOps y lo que desees.
