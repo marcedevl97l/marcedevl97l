@@ -2,10 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m1997/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tudirecciondecorreo@gmail.com?subject=Asunto%20del%20mensaje,)
-<a target="_blank" href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(mailto:tudirecciondecorreo@gmail.com?subject=Asunto%20del%20mensaje,)">Enlace a Ejemplo</a>
-
-
-
 
 ##   Acerca de mí
 - 🏄‍ Soy una persona comprometida con las comunidades y me encanta ayudar a las personas a crecer.
