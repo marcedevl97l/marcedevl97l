@@ -1,8 +1,11 @@
-# Marcelo Montenegro
+<h1 align="center">Hi👋, I'm Marcelo </h1>
 
-## ¡Hola a todos! 👋
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m1997/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tudirecciondecorreo@gmail.com?subject=Asunto%20del%20mensaje,)
+<a target="_blank" href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(mailto:tudirecciondecorreo@gmail.com?subject=Asunto%20del%20mensaje,)">Enlace a Ejemplo</a>
 
-Soy Marcelo Montenegro, estudiante de la Universidad Tecnologica del Perú, donde estoy cursando la carrera de Ingenieria de sistemas. Soy un entusiasta de la tecnología y la programacion. Siempre me propongo nuevos retos y proyectos, estoy aprendiendo nuevas tecnologias cada dia y en un futuro muy cercano me gustaria convertirme en un desarrollador FullStack.
+
+
 
 ##   Acerca de mí
 - 🏄‍ Soy una persona comprometida con las comunidades y me encanta ayudar a las personas a crecer.
@@ -10,13 +13,15 @@ Soy Marcelo Montenegro, estudiante de la Universidad Tecnologica del Perú, dond
 - 🌱 Me encanta compartir mis conocimientos y aprender algo nuevo cada día.
 - 👯 ¡Y mucho más!
 
-##   Tecnologias
-[![Linkedin Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
-[![Linkedin Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
-[![Linkedin Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#) 
-[![Linkedin Badge](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#) 
-[![Linkedin Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#) 
-[![Linkedin Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) 
+## Languages and Tools:
+### Backend
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+### Database
+### Cloud Servers
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=github,git,linux,vscode,figma)](https://skillicons.dev)
+
 <!--[![Linkedin Badge]()](#) -->
 ##   Contactame
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m1997/)
