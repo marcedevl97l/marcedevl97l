@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=fwmvGMBxPTrWdHPjgcxLfxVZzGVswZCVzrgxpRsswpcXVwdQZftsJPcFJTlRXsvVcRdNfnmPHQWWjFHcqtFTcDFlWxWKTdhqQMdVqzmMgkWkcqDZHrGG)
 
 
-<p align="center">Estudiando para ser un FullStack Developer 🌱</p>
+<p align="center">FullStack Developer JR 🌱</p>
 
 ## Languages and Tools:
 <!--### Backend -->
