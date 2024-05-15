@@ -1,15 +1,14 @@
 <h1 align="center">Hi, I'm Marcelo </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m1997/)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m1997/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=fwmvGMBxPTrWdHPjgcxLfxVZzGVswZCVzrgxpRsswpcXVwdQZftsJPcFJTlRXsvVcRdNfnmPHQWWjFHcqtFTcDFlWxWKTdhqQMdVqzmMgkWkcqDZHrGG)
 
-
-<p align="center">FullStack Developer JR 🌱</p>
+<h2 align="center">FullStack Developer JR</h2>
 
 ## Languages and Tools:
 <!--### Backend -->
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 <!--### Database -->
 <!--### Cloud Servers -->
 ### Tools
