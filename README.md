@@ -1,22 +1,38 @@
-<h1 align="center">Hi, I'm Marcelo </h1>
+<h1 align="center">Hi, I'm Marcelo 👨‍💻</h1>
 
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m1997/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=fwmvGMBxPTrWdHPjgcxLfxVZzGVswZCVzrgxpRsswpcXVwdQZftsJPcFJTlRXsvVcRdNfnmPHQWWjFHcqtFTcDFlWxWKTdhqQMdVqzmMgkWkcqDZHrGG)
+<p align="center">
+  <a href="https://www.linkedin.com/in/m1997/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=fwmvGMBxPTrWdHPjgcxLfxVZzGVswZCVzrgxpRsswpcXVwdQZftsJPcFJTlRXsvVcRdNfnmPHQWWjFHcqtFTcDFlWxWKTdhqQMdVqzmMgkWkcqDZHrGG">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-<h2 align="center">FullStack Developer JR</h2>
+<h2 align="center">DevOps & Linux Enthusiast 🚀</h2>
 
-## Languages and Tools:
-<!--### Backend -->
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-<!--### Database -->
-<!--### Cloud Servers -->
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=github,git,linux,vscode,figma)](https://skillicons.dev)
+## 🛠️ Tech Stack:
+### 🐧 DevOps & Backend
+[![My Skills](https://skillicons.dev/icons?i=docker,bash,linux,git,github)](https://skillicons.dev)
 
-<!--[![Linkedin Badge]()](#) -->
+### 🎨 Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-# ¡Hola mundo! 
-- 📫 Cómo contactarme: mándame un mensaje por [WhatsApp](https://wa.me/+51917205538).
-- ⚡ Dato curioso: ¡Me encanta conocer gente nueva y aprender sobre nuevas culturas!
-- 💬 Contáctame acerca de la nube, RPA, CommunityOps, DevRel, oportunidades para hablar, marketing, CampusOps y lo que desees.
+### 🔧 Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma)](https://skillicons.dev)
+
+---
+
+# 🌐 Sobre mí
+Soy un desarrollador enfocado en Linux y DevOps, entusiasta de las nuevas tecnologías y comprometido con marcar una diferencia real. Me apasiona automatizar procesos, desplegar infraestructuras eficientes y crear entornos estables que impulsen el desarrollo ágil.
+
+---
+
+## 📩 Contacto
+- 💬 Escríbeme por **Telegram**: [998818170](https://t.me/+51998818170)
+- ✉️ O mándame un correo si tienes una propuesta o idea.
+
+---
+
+> ⚡ Dato curioso: ¡Siempre estoy explorando nuevas herramientas y tecnologías que ayuden a optimizar y automatizar tareas en servidores Linux!
+
